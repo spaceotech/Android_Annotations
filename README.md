@@ -1,11 +1,9 @@
-# Fast Android Development. Easy maintenance.
+# Android Annotations
 
-[![Android Annotations Logo](https://github.com/androidannotations/androidannotations/wiki/img/aa-logo.png)](https://github.com/androidannotations/androidannotations/wiki/Home) 
+Has it ever happened with you?
 
-**AndroidAnnotations** is an Open Source framework that **speeds up** Android development.
-It takes care of the **plumbing**, and lets you concentrate on what's really important. By **simplifying** your code, it facilitates its **maintenance**.
+You had to write same pattern like Facebook logins or requesting permissions mutliple times, which is not only time consuming but makes the whole code structure of app more and more complex.
 
-### [**Documentation**](https://github.com/androidannotations/androidannotations/wiki/Home)
+If so, don’t worry because with Android Annotations, it’s now possible to build an annotation processor to reduce such boilerplate codes. And Here, we’ve a created a demo on [How to Implement Android Annotations In Your App to Reduce Boilerplate Codes](https://www.spaceotechnologies.com/implement-android-annotations-reduce-boilerplate-codes/). 
 
-[![Build Status](https://travis-ci.org/androidannotations/androidannotations.svg?branch=develop)](https://travis-ci.org/androidannotations/androidannotations/builds) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidAnnotations-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/128)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/androidannotations/androidannotations?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+If you want to implement this feature in your iOS app and looking to Hire [iPhone App Development Company](https://www.spaceotechnologies.com/iphone-app-development/) to help you, then you can contact Space-O Technologies for the same.
